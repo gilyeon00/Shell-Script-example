@@ -1,0 +1,7 @@
+name:gender:phone
+Olivia Smith:Female:010-1234-1111
+Noah Williams:Male:010-1234-2222
+Charlotte Davis:Female:010-1234-3333
+Sophia Johnson:Female:010-4321-1122
+James Johnson:Male:010-2233-5547
+Lucas Williams:Male:010-4424-8854
